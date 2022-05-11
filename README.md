@@ -7,7 +7,6 @@
 
 ## Table of contents
 - Installation 
-- Usage
 - Links
 
 ## Installation
@@ -15,7 +14,8 @@
 User must clone repository into local machine. Also, user must have MySql workbench and insomnia. Then the user must npm i to install all packages needed for this application
 to run.
 
-## Usage
-
-
 ## Links
+
+Github Link :  https://github.com/BerjGhazarian/Ecommerce
+
+Video Link  :  https://drive.google.com/file/d/1BXHb2bh1Jn-MsQKa_8o7qRBB3JzzlKZJ/view
